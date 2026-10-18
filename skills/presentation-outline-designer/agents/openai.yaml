@@ -1,0 +1,4 @@
+interface:
+  display_name: "Presentation Outline Designer"
+  short_description: "Plan concise, speaker-led presentations slide by slide"
+  default_prompt: "Use $presentation-outline-designer to create a concise, speaker-led slide outline for this business sharing."

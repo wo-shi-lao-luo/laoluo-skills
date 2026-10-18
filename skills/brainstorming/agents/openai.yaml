@@ -1,0 +1,4 @@
+interface:
+  display_name: "Brainstorming and Proposal Development"
+  short_description: "Explore ideas, test assumptions, and develop clear proposals"
+  default_prompt: "Use $brainstorming to explore this problem, test assumptions, or develop a proposal as needed."
